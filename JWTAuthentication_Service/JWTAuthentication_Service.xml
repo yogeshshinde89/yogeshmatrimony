@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JWTAuthentication_Service</name>
+    </assembly>
+    <members>
+        <member name="T:JWTAuthentication_Service.Extensions.MiddlewareExtensions">
+            <summary>
+            MiddlewareExtensions
+            </summary>
+        </member>
+        <member name="M:JWTAuthentication_Service.Extensions.MiddlewareExtensions.AddCustomSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Adds the custom swagger.
+            </summary>
+            <param name="services">The services.</param>
+            <returns></returns>
+        </member>
+        <member name="M:JWTAuthentication_Service.Extensions.MiddlewareExtensions.UseCustomSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Uses the custom swagger.
+            </summary>
+            <param name="app">The application.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

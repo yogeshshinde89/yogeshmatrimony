@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrimony_Application", "Matrimony_Application.csproj", "{AD5D678B-AA22-477E-A05E-5656AE771C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrimony_Models", "..\Matrimony_Models\Matrimony_Models.csproj", "{3D20E86E-93B9-42E9-A203-4AB3D3B05CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrimony_Services", "..\Matrimony_Services\Matrimony_Services.csproj", "{1D355697-98D3-423E-B292-92DCF9DCDA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrimony_Repository", "..\Matrimony_Repository\Matrimony_Repository.csproj", "{07A6A901-7624-4713-8AFA-4B3ECB9C9EC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5D678B-AA22-477E-A05E-5656AE771C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5D678B-AA22-477E-A05E-5656AE771C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5D678B-AA22-477E-A05E-5656AE771C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5D678B-AA22-477E-A05E-5656AE771C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D20E86E-93B9-42E9-A203-4AB3D3B05CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D20E86E-93B9-42E9-A203-4AB3D3B05CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D20E86E-93B9-42E9-A203-4AB3D3B05CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D20E86E-93B9-42E9-A203-4AB3D3B05CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D355697-98D3-423E-B292-92DCF9DCDA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D355697-98D3-423E-B292-92DCF9DCDA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D355697-98D3-423E-B292-92DCF9DCDA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D355697-98D3-423E-B292-92DCF9DCDA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A6A901-7624-4713-8AFA-4B3ECB9C9EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A6A901-7624-4713-8AFA-4B3ECB9C9EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A6A901-7624-4713-8AFA-4B3ECB9C9EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A6A901-7624-4713-8AFA-4B3ECB9C9EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CBA743B-6D10-4130-B4AB-2AE33712816D}
+	EndGlobalSection
+EndGlobal

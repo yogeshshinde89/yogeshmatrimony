@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Matrimony_Services/1.0.0": {
+        "dependencies": {
+          "Matrimony_Models": "1.0.0",
+          "Matrimony_Repository": "1.0.0"
+        },
+        "runtime": {
+          "Matrimony_Services.dll": {}
+        }
+      },
+      "Matrimony_Models/1.0.0": {
+        "runtime": {
+          "Matrimony_Models.dll": {}
+        }
+      },
+      "Matrimony_Repository/1.0.0": {
+        "dependencies": {
+          "Matrimony_Models": "1.0.0"
+        },
+        "runtime": {
+          "Matrimony_Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matrimony_Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Matrimony_Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Matrimony_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

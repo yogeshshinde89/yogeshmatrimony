@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Matrimony_Application</name>
+    </assembly>
+    <members>
+        <member name="T:JWTAuthentication_Service.Controllers.AuthenticateController">
+            <summary>
+            AuthenticateController
+            </summary>
+        </member>
+        <member name="M:JWTAuthentication_Service.Controllers.AuthenticateController.#ctor(Microsoft.AspNetCore.Identity.UserManager{JWTAuthentication_Service.ApplicationUser},Microsoft.AspNetCore.Identity.RoleManager{Microsoft.AspNetCore.Identity.IdentityRole},Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            AuthenticateController
+            </summary>
+            <param name="userManager"></param>
+            <param name="roleManager"></param>
+            <param name="configuration"></param>
+        </member>
+        <member name="M:JWTAuthentication_Service.Controllers.AuthenticateController.Login(JWTAuthentication_Service.Models.LoginModel)">
+            <summary>
+            Login
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JWTAuthentication_Service.Controllers.AuthenticateController.Register(JWTAuthentication_Service.Models.RegisterModel)">
+            <summary>
+            Register
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:JWTAuthentication_Service.Controllers.AuthenticateController.RegisterAdmin(JWTAuthentication_Service.Models.RegisterModel)">
+             <summary>
+            RegisterAdmin
+             </summary>
+             <param name="model"></param>
+             <returns></returns>
+        </member>
+        <member name="T:JWTAuthentication_Service.Extensions.MiddlewareExtensions">
+            <summary>
+            MiddlewareExtensions
+            </summary>
+        </member>
+        <member name="M:JWTAuthentication_Service.Extensions.MiddlewareExtensions.AddCustomSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Adds the custom swagger.
+            </summary>
+            <param name="services">The services.</param>
+            <returns></returns>
+        </member>
+        <member name="M:JWTAuthentication_Service.Extensions.MiddlewareExtensions.UseCustomSwagger(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Uses the custom swagger.
+            </summary>
+            <param name="app">The application.</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

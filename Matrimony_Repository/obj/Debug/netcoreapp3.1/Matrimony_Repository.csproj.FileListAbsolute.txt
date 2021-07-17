@@ -1,0 +1,12 @@
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\bin\Debug\netcoreapp3.1\Matrimony_Repository.deps.json
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\bin\Debug\netcoreapp3.1\Matrimony_Repository.dll
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\bin\Debug\netcoreapp3.1\Matrimony_Repository.pdb
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\bin\Debug\netcoreapp3.1\Matrimony_Models.dll
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\bin\Debug\netcoreapp3.1\Matrimony_Models.pdb
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\obj\Debug\netcoreapp3.1\Matrimony_Repository.csprojAssemblyReference.cache
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\obj\Debug\netcoreapp3.1\Matrimony_Repository.AssemblyInfoInputs.cache
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\obj\Debug\netcoreapp3.1\Matrimony_Repository.AssemblyInfo.cs
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\obj\Debug\netcoreapp3.1\Matrimony_Repository.csproj.CoreCompileInputs.cache
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\obj\Debug\netcoreapp3.1\Matrimony_Repository.csproj.CopyComplete
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\obj\Debug\netcoreapp3.1\Matrimony_Repository.dll
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Repository\obj\Debug\netcoreapp3.1\Matrimony_Repository.pdb

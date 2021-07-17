@@ -1,0 +1,14 @@
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\bin\Debug\netcoreapp3.1\Matrimony_Services.deps.json
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\bin\Debug\netcoreapp3.1\Matrimony_Services.dll
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\bin\Debug\netcoreapp3.1\Matrimony_Services.pdb
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\bin\Debug\netcoreapp3.1\Matrimony_Models.dll
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\bin\Debug\netcoreapp3.1\Matrimony_Repository.dll
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\bin\Debug\netcoreapp3.1\Matrimony_Models.pdb
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\bin\Debug\netcoreapp3.1\Matrimony_Repository.pdb
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\obj\Debug\netcoreapp3.1\Matrimony_Services.csprojAssemblyReference.cache
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\obj\Debug\netcoreapp3.1\Matrimony_Services.AssemblyInfoInputs.cache
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\obj\Debug\netcoreapp3.1\Matrimony_Services.AssemblyInfo.cs
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\obj\Debug\netcoreapp3.1\Matrimony_Services.csproj.CoreCompileInputs.cache
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\obj\Debug\netcoreapp3.1\Matrimony_Services.csproj.CopyComplete
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\obj\Debug\netcoreapp3.1\Matrimony_Services.dll
+D:\Projects\DOT NET\Matrimony Project\Matrimony_Services\obj\Debug\netcoreapp3.1\Matrimony_Services.pdb
